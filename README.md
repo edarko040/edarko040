@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edarko040
 - 👀 I’m interested in animes
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on wed development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me +233542173920
 
 <!---
